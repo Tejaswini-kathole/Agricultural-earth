@@ -77,6 +77,18 @@ profitable crop.
 9) Convert numeric value associated with crop name to name of crop.
 10) Print result
 
+### _CODE:_
+
+- Importing the Modules 
+
+![Screenshot (3)](https://user-images.githubusercontent.com/116183177/221876496-5e749cf4-5e96-4bf1-9dec-55cb4daa8b16.png)
+
+### _READING THE FILE FROM DESKTOP:_
+
+![Screenshot (3)](https://user-images.githubusercontent.com/116183177/221877092-ca65d8e1-ec0a-4e52-81ee-e2d1a9dacb3b.png)
+
+### _CONCLUSION:_
+- The main purpose of this project is to create a data which is trustworthy. And the data which we generated would become the golden record so that this data could be used across the organization. The data which is generated here is further used for the analysis purposes with the help of Tableau we can visualize the data and get more insights from it. This can also be useful for decision making purposes. The analysis can be used to generate reports using reporting tools like Tableau 10, Power BI, etc. Analysis helps in Agriculture Production
 
 
 
